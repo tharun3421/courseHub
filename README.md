@@ -11,7 +11,7 @@ CourseHub is a full-stack mini course subscription application where users can b
 
 ---
 
-## 📸 Screenshots
+## 📸 Pages
 - Signup / Login
 - Home (Course List)
 - Course Details
@@ -27,7 +27,6 @@ CourseHub is a full-stack mini course subscription application where users can b
   **Promo Code:** `BFSALE25` (50% discount)
 - 🧾 My Courses page
 - 🔔 Toast notifications
-- ⏳ Skeleton loaders
 - 🎨 Modern Tailwind CSS v4 UI
 - 🔒 Protected routes
 
