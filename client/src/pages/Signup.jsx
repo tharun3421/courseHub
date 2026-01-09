@@ -76,7 +76,7 @@ export default function Signup() {
         <button
           onClick={signup}
           disabled={loading}
-          className="w-full bg-blue-400 text-white py-3 rounded-lg disabled:bg-gray-400"
+          className="w-full bg-blue-400 text-white py-3 rounded-lg disabled:bg-gray-400 cursor-pointer"
         >
           {loading ? "Creating..." : "Signup"}
         </button>
